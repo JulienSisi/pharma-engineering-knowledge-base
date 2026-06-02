@@ -9,7 +9,7 @@
 **Julien Sisavath** — Pharmaceutical Engineering Professional (Switzerland)  
 Background in maintenance methods coordination, GMP compliance, Oracle CMMS/ERP, and cross-functional operations in regulated API manufacturing environments.
 
-- 📍 Lausanne, Vaud, Switzerland  
+- 📍 Fribourg, Switzerland  
 - 🏭 Experience: Celgene International II Sàrl (now WuXi AppTec), Couvet NE
 - 🎯 Target: Infrastructure & Utilities Engineering in CDMO biologics (Lonza Visp)
 
