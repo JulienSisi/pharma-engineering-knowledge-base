@@ -1,0 +1,22 @@
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Variables d'environnement (clés API sensibles)
+.env
+.env.example
+
+# Fichiers système
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
