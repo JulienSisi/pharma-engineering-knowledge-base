@@ -76,7 +76,7 @@ All academic sections were built using [Consensus](https://consensus.app) — an
 
 ## 🚀 Future Projects
 
-See [`en/03_future-projects/IDEAS.md`](./03_future-projects/IDEAS.md) for the AI project roadmap.
+See [`en/03_future-projects/IDEAS.md`](https://github.com/JulienSisi/pharma-engineering-knowledge-base/blob/master/en/03_future-projects/IDEAS.md) for the AI project roadmap.
 
 ---
 
